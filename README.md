@@ -4,7 +4,7 @@ I'm a French student, currently in 4th year Game Programming at Rubika.
 
 ## Language
 
-[![C#](https://img.shields.io/badge/c#-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![C#](https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com)
 
 ## Tools
