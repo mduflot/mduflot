@@ -9,13 +9,21 @@ I'm a French student, currently in 5th year Game Programming at Rubika.
 
 ## Languages :
 
+[![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C#](https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com)
+[![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Tools :
 
 [![Rider](https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)](https://www.jetbrains.com/rider/)
 [![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Trello](https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Unreal](https://img.shields.io/badge/unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
@@ -23,14 +31,14 @@ I'm a French student, currently in 5th year Game Programming at Rubika.
 
 ## Projects :
 
-GardenGears : https://github.com/duflosky/GardenGears-MOBA  
-Fant-home : https://github.com/duflosky/Fant-Home  
-Jab! : https://github.com/duflosky/JabMobileGame  
 Long Way To Earth : https://github.com/duflosky/J.A.M-Project  
+Jab! : https://github.com/duflosky/JabMobileGame  
+Fant-home : https://github.com/duflosky/Fant-Home  
+GardenGears : https://github.com/duflosky/GardenGears-MOBA  
 
 ---
 
 <p align="center">
-  <a href="mailto:maximedft@outlook.com"><img title="maximedft@outlook.com" src="https://img.shields.io/badge/maximedft%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"></a>
+  <a href="https://bento.me/duflosky"><img title="Bento" src="https://img.shields.io/badge/Maxime Duflot-768CFF?style=for-the-badge&logo=bento&logoColor=white" alt="Bento Badge"></a>
   <img title="maxime.duflot" src="https://img.shields.io/badge/maxime.duflot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </p>
