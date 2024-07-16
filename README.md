@@ -1,6 +1,9 @@
 # Hi, I'm Maxime 👋
 
-I'm a French student, currently in 4th year Game Programming at Rubika.
+I'm a French student, currently in 5th year Game Programming at Rubika.
+
+- 💡 I'm aiming for a general game programmer profile since I like to touch and improve myself in all branches of video game development.
+- 🎮 I like to stay informed of the latest games released as well as to try them, both AAA and independent games.
 
 ---
 
@@ -29,5 +32,5 @@ Long Way To Earth : https://github.com/duflosky/J.A.M-Project
 
 <p align="center">
   <a href="mailto:maximedft@outlook.com"><img title="maximedft@outlook.com" src="https://img.shields.io/badge/maximedft%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"></a>
-  <img title="Duflosky" src="https://img.shields.io/badge/Duflosky-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  <img title="maxime.duflot" src="https://img.shields.io/badge/maxime.duflot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </p>
