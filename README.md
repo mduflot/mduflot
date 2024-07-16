@@ -40,5 +40,6 @@ GardenGears : https://github.com/duflosky/GardenGears-MOBA
 
 <p align="center">
   <a href="https://bento.me/duflosky"><img title="Bento" src="https://img.shields.io/badge/Maxime Duflot-768CFF?style=for-the-badge&logo=bento&logoColor=white" alt="Bento Badge"></a>
+  <a href="https://www.linkedin.com/in/maxime-duflot/"><img title="LinkedIn" src="https://img.shields.io/badge/Maxime Duflot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bento Badge"></a>
   <img title="maxime.duflot" src="https://img.shields.io/badge/maxime.duflot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </p>
