@@ -24,6 +24,10 @@ I'm a French student, currently in 5th year Game Programming at Rubika.
 [![Trello](https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitKraken](https://img.shields.io/badge/gitkraken-179287.svg?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
+[![Perforce](https://img.shields.io/badge/perforce-404040.svg?style=for-the-badge&logo=perforce&logoColor=white)](https://www.perforce.com/)
 [![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Unreal](https://img.shields.io/badge/unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
