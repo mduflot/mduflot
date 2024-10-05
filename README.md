@@ -11,7 +11,7 @@
 [![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C#](https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![C#](https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com)
 [![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
