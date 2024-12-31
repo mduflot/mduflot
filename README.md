@@ -34,10 +34,10 @@
 
 ## 📂 Projects :
 
-[![LongWayToEarth](https://img.shields.io/badge/long_way_to_earth-f15a24?style=for-the-badge)](https://github.com/duflosky/J.A.M-Project)  
-[![Jab!](https://img.shields.io/badge/Jab!-f80019?style=for-the-badge)](https://github.com/duflosky/JabMobileGame)  
-[![Fant-Home](https://img.shields.io/badge/fanthome-419eed?style=for-the-badge)](https://github.com/duflosky/Fant-Home)  
-[![GardenGears](https://img.shields.io/badge/garden_gears-c43bca?style=for-the-badge)](https://github.com/duflosky/GardenGears-MOBA)  
+[![LongWayToEarth](https://img.shields.io/badge/long_way_to_earth-f15a24?style=for-the-badge)](https://github.com/duflosky/J.A.M-Project)
+[![Jab!](https://img.shields.io/badge/Jab!-f80019?style=for-the-badge)](https://github.com/duflosky/JabMobileGame)
+[![Fant-Home](https://img.shields.io/badge/fanthome-419eed?style=for-the-badge)](https://github.com/duflosky/Fant-Home)
+[![GardenGears](https://img.shields.io/badge/garden_gears-c43bca?style=for-the-badge)](https://github.com/duflosky/GardenGears-MOBA)
 
 ---
 ## 🔗 Links
