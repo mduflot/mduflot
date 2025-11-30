@@ -9,7 +9,7 @@
 ## ⌨️ Languages :
 
 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com)
@@ -34,6 +34,7 @@
 
 ## 📂 Projects :
 
+[![12MemoryLane](https://img.shields.io/badge/12_memory_lane-A52A2A?style=for-the-badge)](https://github.com/duflosky/J.A.M-Project)
 [![LongWayToEarth](https://img.shields.io/badge/long_way_to_earth-f15a24?style=for-the-badge)](https://github.com/duflosky/J.A.M-Project)
 [![Jab!](https://img.shields.io/badge/Jab!-f80019?style=for-the-badge)](https://github.com/duflosky/JabMobileGame)
 [![Fant-Home](https://img.shields.io/badge/fanthome-419eed?style=for-the-badge)](https://github.com/duflosky/Fant-Home)
