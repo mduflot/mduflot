@@ -34,7 +34,7 @@
 
 ## 📂 Projects :
 
-[![12MemoryLane](https://img.shields.io/badge/12_memory_lane-A52A2A?style=for-the-badge)](https://github.com/duflosky/J.A.M-Project)
+[![12MemoryLane](https://img.shields.io/badge/12_memory_lane-A52A2A?style=for-the-badge)]()
 [![LongWayToEarth](https://img.shields.io/badge/long_way_to_earth-f15a24?style=for-the-badge)](https://github.com/duflosky/J.A.M-Project)
 [![Jab!](https://img.shields.io/badge/Jab!-f80019?style=for-the-badge)](https://github.com/duflosky/JabMobileGame)
 [![Fant-Home](https://img.shields.io/badge/fanthome-419eed?style=for-the-badge)](https://github.com/duflosky/Fant-Home)
@@ -45,5 +45,4 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge)](https://mduflot.github.io/Portfolio/index.html)
 [![Resume](https://img.shields.io/badge/resume-000000?style=for-the-badge)](https://drive.google.com/drive/folders/1BzOLrHe2CfAiB0wTlWJ4cy13Wx_Jq-XA?usp=sharing)
-[![Bento](https://img.shields.io/badge/bento-768CFF?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/maximeduflot/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/maxime-duflot/)
