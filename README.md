@@ -1,6 +1,6 @@
 # Hi! I'm Maxime 👋
 
-- 👨‍🎓 I'm currently a Gameplay Programmer intern at Belong Studios
+- 👨‍🎓 I'm actively seeking a position as a Gameplay Programmer.
 - 💡 I'm aiming for a generalist game programmer profile since I like to touch and improve myself in all branches of video game development.
 - 🎮 I like to stay informed of the latest games released as well as to try them, both AAA and independent games.
 
