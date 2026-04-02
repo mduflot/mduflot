@@ -43,6 +43,6 @@
 ---
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge)](https://mduflot.github.io/Portfolio/index.html)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge)](https://mduflot.github.io/portfolio/index.html)
 [![Resume](https://img.shields.io/badge/resume-000000?style=for-the-badge)](https://drive.google.com/drive/folders/1BzOLrHe2CfAiB0wTlWJ4cy13Wx_Jq-XA?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/maxime-duflot/)
